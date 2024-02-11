@@ -8,20 +8,15 @@ I'm a French student who loves programming projects, hacking and quantum physics
 
 ## Programming languages
 
-- JavaScript (I get by)
+- JavaScript
+- TypeScript
+- Bun
+- Zig
 - HTML5
 - CSS
 - LUA
 - Python
 - C++
-
-## Projects
-
-| Name | Version |
-| :---- | :-------: |
-| [Dev Timer](https://github.com/gaskam-com/dev-timer) | ![npm](https://img.shields.io/npm/v/dev-timer) |
-| [Dev Chrono](https://github.com/gaskam-com/dev-chrono) | Soon... |
-| [BeamRadio](https://github.com/gaskam-com/BeamRadio) | ![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/gaskam-com/BeamRadio/main?label=GitHub) |
 
 ## Links
 
