@@ -1,4 +1,4 @@
-<h6 align="left">Gaspard Lebaube, 16 y.o.</h6>
+<h6 align="left">Gaspard Lebaube, 17 y.o.</h6>
 <h1 align="center">Hi there, I'm Patafix</h1>
 <h3 align="center">A french student who loves optimization</h3>
 
