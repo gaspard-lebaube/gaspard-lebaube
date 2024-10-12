@@ -1,8 +1,8 @@
 <h6 align="left">Gaspard Lebaube, 17 y.o.</h6>
-<h1 align="center">Hi there, I'm Patafix</h1>
+<h1 align="center">Hi there, I'm Gaspard</h1>
 <h3 align="center">A french student who loves optimization</h3>
 
-<p align="center">I'm a French student who loves doing projects, especially with <a href="https://github.com/Bot-maKeR-0000">Bot-Maker</a> and our <a href="https://github.com/gaskam-com">Gaskam</a> organization. Between a few lines of code, I also have fun doing little cybersecurity challenges, I love fiddling with the network.</p>
+<p align="center">I'm a French student who loves doing projects, especially with <a href="https://github.com/kamil-leys">Bot-Maker</a> and our <a href="https://github.com/gaskam-com">Gaskam</a> organization. Between a few lines of code, I also have fun doing little cybersecurity challenges, I love fiddling with the network.</p>
 <p align="center">I also spend too much time doing nothing on my computer and playing video games. Oh, and I almost forgot, I tinker (a bit too much) with servers at home, to the point where they end up being reset after 24 hours: Linux my best and worst friend at the same time.</p>
 
 <h3 align="center">Programming languages</h3>
