@@ -8,14 +8,10 @@
 <h3 align="center">Programming languages</h3>
 
 <div align="center">
-  <a href="https://www.typescriptlang.org/"><img alt="TypeScript Badge" src="https://img.shields.io/badge/-TypeScript-%23007bcd?style=flat-square&logo=typescript&logoColor=%23fff&link=https%3A%2F%2Fwww.typescriptlang.org%2F"></a>
-  <a href="https://en.wikipedia.org/wiki/JavaScript"><img alt="JavaScript Badge" src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=%23000&link=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJavaScript"></a>
-  <a href="https://bun.sh/"><img alt="Bun Badge" src="https://img.shields.io/badge/-Bun-%23f9f1e1?style=flat-square&logo=bun&logoColor=%23000&link=https%3A%2F%2Fbun.sh%2F"></a>
   <a href="https://ziglang.org/"><img alt="Zig Badge" src="https://img.shields.io/badge/-Zig-%23f7a41d?style=flat-square&logo=zig&logoColor=%23fff&link=https%3A%2F%2Fziglang.org%2F"></a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img alt="C++ Badge" src="https://img.shields.io/badge/-C%2B%2B-%2300599C?style=flat-square&logo=cplusplus&logoColor=%23fff&link=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FC%252B%252B"></a>
-  <a href="https://www.lua.org/"><img alt="Lua Badge" src="https://img.shields.io/badge/-Lua-%232C2D72?style=flat-square&logo=lua&logoColor=%23fff&link=https%3A%2F%2Fwww.lua.org%2F"></a>
-  <a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML Badge" src="https://img.shields.io/badge/-HTML-%23E34F26?style=flat-square&logo=html5&logoColor=%23fff&link=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML"></a>
-  <a href="https://en.wikipedia.org/wiki/CSS"><img alt="CSS Badge" src="https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3&logoColor=%23fff&link=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCSS"></a>
+  <a href="https://www.rust-lang.org/"><img alt="Rust Badge" src="https://img.shields.io/badge/-Rust-%2523f7a41d?style=flat-square&logo=rust&color=%23000000&cacheSeconds=https%3A%2F%2Fwww.rust-lang.org%2F"></a>
+  <a href="https://bun.sh/"><img alt="Bun Badge" src="https://img.shields.io/badge/-Bun-%23f9f1e1?style=flat-square&logo=bun&logoColor=%23000&link=https%3A%2F%2Fbun.sh%2F"></a>
+  <a href="https://www.typescriptlang.org/"><img alt="TypeScript Badge" src="https://img.shields.io/badge/-TypeScript-%23007bcd?style=flat-square&logo=typescript&logoColor=%23fff&link=https%3A%2F%2Fwww.typescriptlang.org%2F"></a>
 </div>
 
 ---
